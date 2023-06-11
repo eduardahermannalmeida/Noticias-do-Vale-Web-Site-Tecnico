@@ -1,0 +1,99 @@
+body {
+
+    background-color: black;
+    color: white;
+    font-family: 'Neucha', cursive;
+
+}
+
+#cabecalho {
+
+    width: 1000px;
+    height: 200px;
+    margin: 5px auto;
+    background-color: white;
+
+
+}
+
+#cabecalho h1 {
+
+    color:deepskyblue;
+    text-align: center;
+    margin: 0px auto;
+
+}
+
+#cabecalho img {
+
+    margin: 0px auto;
+
+}
+
+#corpo {
+
+    width: 1000px;
+    height: 1400px;
+    background-color: white;
+    margin: 0px auto;
+
+}
+
+#corpo h2 {
+
+    text-align: center;
+    font-size: 16pt;
+    color:royalblue;
+    padding-top: 20px;
+
+}
+
+#corpo p {
+
+    text-align: justify;
+    font-size: 14pt;
+    color: black;
+    margin: 10px 20px;
+    text-indent: 30px;
+
+}
+
+#corpo img {
+
+    margin: 25px 325px;
+
+}
+
+#corpo h3 {
+
+    margin: 25px 150px;
+    text-align: left;
+    font-size: 14pt;
+    color:darkslateblue;
+    padding-top: 20px;
+
+}
+
+#rodape {
+
+    width: 1000px;
+    height: 200px;
+    margin: 0px auto;
+    background-color: white;
+
+}
+
+#rodape h2 {
+
+    text-align: center;
+    padding: 20px;
+    font-size: 14pt;
+    color: black;
+
+}
+
+#rodape img {
+
+    margin: 0px 120px;
+
+}
